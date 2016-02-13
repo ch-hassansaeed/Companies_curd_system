@@ -2,10 +2,19 @@
 > Companies Curd System
 ----------------------------------------------------------------------------------
 #project description
-This is companies management system which can add,delete,edit and views companies +Spring MVC REST API for web server
+This is companies management system which can add,delete,edit and views companies +Spring MVC REST API for web server Java
 ----------------------------------------------------------------------------------
 #front end tools
-Bootstrap,AngularJa,HTML5
+Bootstrap,AngularJs,HTML5
+----------------------------------------------------------------------------------
+#Prerequisites
+NetBean IDE
+JVM
+Maven
+Spring
+BootStrap
+AngularJS
+Jquery
 ----------------------------------------------------------------------------------
 ##HOME URL
 Http://localhost:8080/Companies_curd_system
